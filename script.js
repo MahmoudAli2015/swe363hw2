@@ -1,18 +1,18 @@
-var questions = [{"question":"1+1","option1":"2"
+var questions = [{"question":"how many days in the week","option1":"7"
                   ,"option2":"3"
                   , "option3":"1"
-                  , "option4": "33"
+                  , "option4": "3"
                   , "answer": "1"},
                 {"question":"8-2","option1":"3"
                   ,"option2":"6"
                   , "option3":"2"
                   , "option4": "1"
                   , "answer": "2"},
-                  {"question":"3-0","option1":"2"
-                  ,"option2":"3"
-                  , "option3":"5"
-                  , "option4": "1"
-                  , "answer": "2"},
+                  {"question":"what is the name of this university","option1":"kfupm"
+                  ,"option2":"upd"
+                  , "option3":"ter"
+                  , "option4": "ewe"
+                  , "answer": "1"},
                   {"question":"0+4","option1":"3"
                   ,"option2":"4"
                   , "option3":"2"
@@ -34,10 +34,10 @@ var questions1 = [{"question":"CCSE departments","option1":"ICS"
                   , "option3":"5"
                   , "option4": "9"
                   , "answer": ["1","2"]},
-                {"question":"networking","option1":"3"
-                  ,"option2":"threee"
-                  , "option3":"1"
-                  , "option4": "2"
+                {"question":"networking protocols","option1":"HTTP"
+                  ,"option2":"FTP"
+                  , "option3":"ggg"
+                  , "option4": "ttt"
                   , "answer": ["1","2"]}] ; 
 
 //other file 
